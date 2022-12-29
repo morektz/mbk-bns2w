@@ -8,6 +8,7 @@
 ----
 1. [What ?](#what-)
 2. [POC Demo](#poc-demo)
+   1. [Working POC Site](#working-poc-site)
 3. [Description](#description)
 
 ----
@@ -29,6 +30,13 @@ https://user-images.githubusercontent.com/94300836/210017416-67c03b9e-12cb-4671-
 </p>
 
 https://user-images.githubusercontent.com/94300836/210017416-67c03b9e-12cb-4671-b43c-eec8f286f057.mp4
+
+## Working POC Site 
+
+> [`https://mbv1.vercel.app/`](https://mbv1.vercel.app/)
+- bare bones functionality 
+- This will be the base from which all iterations will occur 
+- This repo is strictly for reporting purposes only
 
 # Description 
 
